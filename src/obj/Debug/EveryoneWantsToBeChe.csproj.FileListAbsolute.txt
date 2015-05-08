@@ -1,0 +1,18 @@
+C:\Users\Trinh Thanh Trung\AppData\Local\Temporary Projects\EveryoneWantsToBeChe\bin\Debug\EveryoneWantsToBeChe.exe
+C:\Users\Trinh Thanh Trung\AppData\Local\Temporary Projects\EveryoneWantsToBeChe\bin\Debug\EveryoneWantsToBeChe.pdb
+C:\Users\Trinh Thanh Trung\AppData\Local\Temporary Projects\EveryoneWantsToBeChe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Trinh Thanh Trung\AppData\Local\Temporary Projects\EveryoneWantsToBeChe\obj\Debug\EveryoneWantsToBeChe.MainForm.resources
+C:\Users\Trinh Thanh Trung\AppData\Local\Temporary Projects\EveryoneWantsToBeChe\obj\Debug\EveryoneWantsToBeChe.Properties.Resources.resources
+C:\Users\Trinh Thanh Trung\AppData\Local\Temporary Projects\EveryoneWantsToBeChe\obj\Debug\EveryoneWantsToBeChe.csproj.GenerateResource.Cache
+C:\Users\Trinh Thanh Trung\AppData\Local\Temporary Projects\EveryoneWantsToBeChe\obj\Debug\EveryoneWantsToBeChe.exe
+C:\Users\Trinh Thanh Trung\AppData\Local\Temporary Projects\EveryoneWantsToBeChe\obj\Debug\EveryoneWantsToBeChe.pdb
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneWantsToBeChe\EveryoneWantsToBeChe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneWantsToBeChe\EveryoneWantsToBeChe\obj\Debug\EveryoneWantsToBeChe.MainForm.resources
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneWantsToBeChe\EveryoneWantsToBeChe\obj\Debug\EveryoneWantsToBeChe.Properties.Resources.resources
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneWantsToBeChe\EveryoneWantsToBeChe\obj\Debug\EveryoneWantsToBeChe.csproj.GenerateResource.Cache
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneWantsToBeChe\EveryoneWantsToBeChe\obj\Debug\EveryoneWantsToBeChe.exe
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneWantsToBeChe\EveryoneWantsToBeChe\obj\Debug\EveryoneWantsToBeChe.pdb
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneWantsToBeChe\EveryoneWantsToBeChe\bin\Debug\EveryoneWantsToBeChe.exe
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneWantsToBeChe\EveryoneWantsToBeChe\bin\Debug\EveryoneWantsToBeChe.pdb
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneCouldBeCHE\EveryoneWantsToBeChe\obj\Debug\EveryoneWantsToBeChe.exe
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneCouldBeCHE\EveryoneWantsToBeChe\obj\Debug\EveryoneWantsToBeChe.pdb

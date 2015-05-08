@@ -1,0 +1,13 @@
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneCouldBeCHE\EveryoneWantsToBeChe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneCouldBeCHE\EveryoneWantsToBeChe\obj\Debug\EveryoneWantsToBeChe.MainForm.resources
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneCouldBeCHE\EveryoneWantsToBeChe\obj\Debug\EveryoneWantsToBeChe.Properties.Resources.resources
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneCouldBeCHE\EveryoneWantsToBeChe\obj\Debug\EveryoneCouldBeCHE.csproj.GenerateResource.Cache
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneCouldBeCHE\EveryoneWantsToBeChe\obj\Debug\EveryoneWantsToBeChe.exe
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneCouldBeCHE\bin\Debug\EveryoneWantsToBeChe.exe
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneCouldBeCHE\bin\Debug\EveryoneWantsToBeChe.pdb
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneCouldBeCHE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneCouldBeCHE\obj\Debug\EveryoneWantsToBeChe.MainForm.resources
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneCouldBeCHE\obj\Debug\EveryoneWantsToBeChe.Properties.Resources.resources
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneCouldBeCHE\obj\Debug\EveryoneCouldBeCHE.csproj.GenerateResource.Cache
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneCouldBeCHE\obj\Debug\EveryoneWantsToBeChe.exe
+C:\Users\Trinh Thanh Trung\Projects\SharpDevelop\EveryoneCouldBeCHE\obj\Debug\EveryoneWantsToBeChe.pdb
